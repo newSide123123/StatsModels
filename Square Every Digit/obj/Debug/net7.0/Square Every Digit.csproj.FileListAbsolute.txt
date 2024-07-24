@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\bin\Debug\net7.0\Square Every Digit.exe
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\bin\Debug\net7.0\Square Every Digit.deps.json
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\bin\Debug\net7.0\Square Every Digit.runtimeconfig.json
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\bin\Debug\net7.0\Square Every Digit.dll
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\bin\Debug\net7.0\Square Every Digit.pdb
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\obj\Debug\net7.0\Square Every Digit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\obj\Debug\net7.0\Square Every Digit.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\obj\Debug\net7.0\Square Every Digit.AssemblyInfo.cs
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\obj\Debug\net7.0\Square Every Digit.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\obj\Debug\net7.0\Square Every Digit.dll
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\obj\Debug\net7.0\refint\Square Every Digit.dll
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\obj\Debug\net7.0\Square Every Digit.pdb
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\obj\Debug\net7.0\Square Every Digit.genruntimeconfig.cache
+D:\Visual Studio Projects\CodeWars\Square Every Digit\Square Every Digit\obj\Debug\net7.0\ref\Square Every Digit.dll
